@@ -27,12 +27,17 @@ $ sudo pip3 install -r requirements.txt
 
 The Python Script with the base parameters is run with the following command in Terminal.
 
-```python
+```
 $ python main.py 
 ```
+To use different parameters to execute the training of the model the following command illustrates the modifiable parameters.
 
+```
+$ python main.py --n_epochs <Epoch> --batch_size <Batch Size> --lr <Learning Rate> --b1 <Adam Parameter> --b2 <Adam Parameter> --n_cpu <CPU Threads>
+--latent_dim <Latent Dimension> --img_size <Image Size> --channels <Channels> --sample_interval <Image Sample Interval>
+```
 
-
+The Docker File implementation is as follows
 
 
 
