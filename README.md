@@ -1,6 +1,6 @@
 # Using Generative Adversarial Networks for inversion of Geophysical data
 
-This project explores the feasability of using Generative Adversarial Networks (GAN's) in the pipeline for solving Geophysical problems. This is an extension on the work done by  <cite>[Laloy et al., 2019][1]</cite>. Laloy in his paper explores the fesability of using GAN's to aid in the inversion process
+This project explores the feasability of using Generative Adversarial Networks (GAN's) in the pipeline for solving Geophysical problems. This is an extension on the work done by  <cite>[Laloy et al., 2019][1]</cite>. Laloy in his paper explores the fesability of using GAN's to aid in the inversion process for geophysical problems. The idea is to learn the latent representation of the distribution of 
 
 ## Table of contents
 1. [Installation](#installation)
