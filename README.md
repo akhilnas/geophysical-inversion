@@ -37,9 +37,11 @@ $ python main.py --n_epochs <Epoch> --batch_size <Batch Size> --lr <Learning Rat
 --latent_dim <Latent Dimension> --img_size <Image Size> --channels <Channels> --sample_interval <Image Sample Interval>
 ```
 
-The Code can also be implemented with the help of Docker. For instruction on Docker Installation please see . The Docker Implementation is available on [Docker Hub][1].
+The Code can also be implemented with the help of Docker. For instruction on Docker Installation please see [here][1]. The Docker Implementation is available on [Docker Hub][2].
 
-[1]: https://hub.docker.com/r/akhiln/gan-stable
+[1]: https://docs.docker.com/get-docker/
+[2]: https://hub.docker.com/r/akhiln/gan-stable
+
 
 ```
 $ docker pull akhiln/gan-stable
