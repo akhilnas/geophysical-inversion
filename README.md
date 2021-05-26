@@ -40,11 +40,11 @@ $ python main.py --n_epochs <Epoch> --batch_size <Batch Size> --lr <Learning Rat
 The Code can also be implemented with the help of Docker. For instruction on Docker Installation please see [here][1]. The Docker Implementation is available on [Docker Hub][2].
 
 [1]: https://docs.docker.com/get-docker/
-[2]: https://hub.docker.com/r/akhiln/gan-stable
+[2]: https://hub.docker.com/r/akhiln/gan
 
 
 ```
-$ docker pull akhiln/gan-stable
+$ docker pull akhiln/gan
 ```
 
 
