@@ -4,14 +4,20 @@ This project explores the feasability of using Generative Adversarial Networks (
 
 ## Table of contents
 1. [Installation](#installation)
-  1.  
 3. [Motivation](#paragraph1)    
 4. [Sample Query](#paragraph2)
 5. [How To Run](#paragraph3)
 
 
 
-## About the Dataset <a name="introduction"></a>
+## Installation <a name="installation"></a>
+
+```
+$ git clone https://github.com/akhilnas/geophysical-inversion.git
+$ cd geophysical-inversion/
+$ sudo pip3 install -r requirements.txt
+```
+
 
 
 
