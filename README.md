@@ -25,6 +25,14 @@ $ sudo pip3 install -r requirements.txt
 
 ## Implementation <a name="implementation"></a>
 
+The Python Script with the base parameters is run with the following command in Terminal.
+
+```python
+$ python main.py 
+```
+
+
+
 
 
 
